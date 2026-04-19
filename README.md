@@ -124,18 +124,16 @@ class Revanth:
 
 ## 🏆 ACHIEVEMENTS
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreerevanth&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sreerevanth&theme=onedark&no-frame=true&margin-w=10&column=6"/>
+</p>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
-
-> ⚠️ *Snake animation requires the [GitHub Action](https://github.com/Platane/snk) to be set up in your repo. Once set up, it auto-generates at the path below.*
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sreerevanth/sreerevanth/output/github-contribution-grid-snake.svg" alt="Snake animation — enable via GitHub Actions workflow"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0a0a0a&color=00d9ff&line=00FF88&point=FF006E&area=true&area_color=00d9ff&hide_border=false&border_color=00d9ff&radius=6" alt="Contribution Activity Graph"/>
 </div>
 
 ---
