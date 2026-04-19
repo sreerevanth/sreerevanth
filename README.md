@@ -124,9 +124,17 @@ class Revanth:
 
 ## 🏆 ACHIEVEMENTS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreerevanth&theme=onedark&no-frame=true&margin-w=10&column=6"/>
-</p>
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sreerevanth?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00d9ff&labelColor=1a1a2e&label=Total+Stars)
+![Followers](https://img.shields.io/github/followers/sreerevanth?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00FF88&labelColor=1a1a2e&label=Followers)
+![Repos](https://img.shields.io/badge/Public_Repos-View_All-FF006E?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a1a2e)
+
+![TRADEX](https://img.shields.io/github/stars/sreerevanth/TRADEX?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00d9ff&labelColor=1a1a2e&label=⚡+TRADEX+Stars)
+![RepoPilot](https://img.shields.io/github/stars/sreerevanth/RepoPilot?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00FF88&labelColor=1a1a2e&label=🤖+RepoPilot+Stars)
+![RMM](https://img.shields.io/github/stars/sreerevanth/RMM?style=for-the-badge&logo=github&logoColor=0a0a0a&color=FF006E&labelColor=1a1a2e&label=🧠+RMM+Stars)
+
+</div>
 
 ---
 
