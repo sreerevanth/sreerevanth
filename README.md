@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=SREEREVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=REVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -125,15 +125,7 @@ class Revanth:
 ## 🏆 ACHIEVEMENTS
 
 <div align="center">
-
-![Stars](https://img.shields.io/github/stars/sreerevanth?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00d9ff&labelColor=1a1a2e&label=Total+Stars)
-![Followers](https://img.shields.io/github/followers/sreerevanth?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00FF88&labelColor=1a1a2e&label=Followers)
-![Repos](https://img.shields.io/badge/Public_Repos-View_All-FF006E?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=1a1a2e)
-
-![TRADEX](https://img.shields.io/github/stars/sreerevanth/TRADEX?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00d9ff&labelColor=1a1a2e&label=⚡+TRADEX+Stars)
-![RepoPilot](https://img.shields.io/github/stars/sreerevanth/RepoPilot?style=for-the-badge&logo=github&logoColor=0a0a0a&color=00FF88&labelColor=1a1a2e&label=🤖+RepoPilot+Stars)
-![RMM](https://img.shields.io/github/stars/sreerevanth/RMM?style=for-the-badge&logo=github&logoColor=0a0a0a&color=FF006E&labelColor=1a1a2e&label=🧠+RMM+Stars)
-
+  <img src="https://trophy.benkou.dev/?username=sreerevanth&theme=darkhub&no-frame=false&margin-w=10&column=6"/>
 </div>
 
 ---
