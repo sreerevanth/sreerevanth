@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Revanth ⚡</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:FFD700&height=180&section=header&text=Revanth&fontSize=40&fontColor=FFD700&animation=fadeIn"/>
