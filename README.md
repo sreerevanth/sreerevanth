@@ -1,40 +1,35 @@
-<h1 align="center">⚡ revanth</h1>
+<h1 align="center">⚡ revanth ⚡</h1>
 
 <p align="center">
-  <b>builds things that probably shouldn’t work — but do.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=200&section=header&text=REVENTH&fontSize=42&fontColor=FFD700&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=building+ai+systems;breaking+things;fixing+them;shipping+fast&center=true&color=FFD700&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=building+systems+that+think;breaking+things+on+purpose;fixing+them+better;shipping+real+stuff&center=true&color=FFD700&size=22">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreerevanth&color=yellow&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=sreerevanth&label=PROFILE+VIEWS&color=FFD700&style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 what i actually do
+## 🧠 who i am
 
 ```diff
-+ build autonomous systems
-+ make AI take actions, not just respond
-+ break systems → fix them better
-
-i build things like:
-
-🤖 agents that fix code by themselves
-📊 trading systems that generate signals + track profit
++ i build systems that act, not just respond
++ i don’t wait to “learn” — i build and figure it out
++ i ship things even when they feel unfinished
+🚀 what i build
+🤖 autonomous AI agents that fix code
+📊 trading systems with live signals + P&L
 🧠 multi-model AI orchestration systems
-🚀 current focus
-agentic systems:    evolving
-real-time engines:  building
-ideas:              too many
-sleep:              optional
-💻 featured builds
-⚡ TRADEX → real-time trading dashboard (signals + P&L + charts)
-🤖 RepoPilot → self-correcting AI coding agent
-🧠 RMM → multi-model AI orchestration system
+⚡ real-time decision engines
+💥 featured systems
+project	what it does
+⚡ TRADEX	real-time trading dashboard with signals, P&L & charts
+🤖 RepoPilot	AI agent that fixes code by running & debugging it
+🧠 RMM	multi-model AI orchestration system
 ⚙️ tech stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,react,nodejs,docker,linux,git" /> </p>
 🧪 ai / data
@@ -43,59 +38,13 @@ sleep:              optional
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerevanth&theme=tokyonight"/> </p>
 🐍 contribution snake
 <p align="center"> <img src="https://github.com/sreerevanth/sreerevanth/blob/output/github-contribution-grid-snake.svg"/> </p>
-⚡ philosophy
+⚡ current state
+building:    always
+learning:    by doing
+focus:       agentic systems
+status:      shipping
+💭 philosophy
 
 build → break → understand → rebuild better
 
-🧩
-
-still figuring things out
-just shipping anyway
-
-
----
-
-# 🐍 IMPORTANT (snake animation setup)
-
-👉 This doesn’t work automatically  
-You must set it up once:
-
----
-
-## 🚀 Steps
-
-### 1. Go to your profile repo:
-👉 `sreerevanth`
-
----
-
-### 2. Create folder:
-```text
-.github/workflows
-3. Create file:
-snake.yml
-4. Paste this:
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sreerevanth
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=120&section=footer"/> </p> ```
