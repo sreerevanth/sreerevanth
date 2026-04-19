@@ -167,13 +167,13 @@ class Revanth:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=1a1a2e)](https://linkedin.com/in/sreerevanth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=1a1a2e)](https://www.linkedin.com/in/sree-revanth/)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=00FF88&labelColor=1a1a2e)](https://twitter.com/sreerevanth)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=FF006E&labelColor=1a1a2e)](https://sreerevanth.dev)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=1a1a2e)](mailto:sreerevanth@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=1a1a2e)](mailto:sreerevanth7b@gmail.com)
 
 </div>
 
