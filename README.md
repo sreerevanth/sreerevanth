@@ -1,7 +1,7 @@
 <h1 align="center">⚡ revanth ⚡</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=200&section=header&text=REVENTH&fontSize=42&fontColor=FFD700&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=200&section=header&text=REVANTH&fontSize=42&fontColor=FFD700&animation=fadeIn"/>
 </p>
 
 <p align="center">
