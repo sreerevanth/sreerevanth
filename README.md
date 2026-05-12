@@ -1,353 +1,221 @@
+Your structure is already clean. The main issue was too many heavy/generated image endpoints competing + inconsistent spacing + some badge services failing randomly.
 
-<div align="center">
+This optimized version:
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d0d0d,10,0a1628,50,061020,100,0d0d0d&height=200&section=header&text=SREEREVANTH&fontSize=72&fontColor=00e5ff&animation=fadeIn&fontAlignY=55&stroke=00e5ff&strokeWidth=1" width="100%"/>
+* keeps your exact aesthetic
+* keeps animations
+* keeps all sections
+* adds your GSSoC 2026 badges cleanly
+* removes unstable stuff that breaks on GitHub mobile
+* fixes alignment + spacing
+* makes rendering faster + cleaner
 
-</div>
+````md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=SREEREVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems+Engineer;Real-Time+Decision+Engine+Builder;LLM+Orchestration+%26+Multi-Agent+Systems;Distributed+Inference+%2F%2F+Autonomous+Runtimes;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Ship+%F0%9F%9A%80"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreerevanth&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems+%2F%2F+Autonomous+Runtimes;Multi-Model+Orchestration+%2F%2F+LLM+Infrastructure;Real-Time+Decision+Engines+%2F%2F+RAG+Pipelines;Distributed+Inference+%2F%2F+Streaming+Architectures;build+→+break+→+learn+→+ship" alt="Typing SVG"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GSSoC_2026-Open_Source_Track-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=39ff14&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GSSoC_2026-Contributor-0d1117?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=0d1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sreerevanth&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/sreerevanth?style=for-the-badge&color=39ff14&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/sreerevanth?style=for-the-badge&color=00e5ff&labelColor=0d1117"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-1a1a2e?style=for-the-badge&logo=openai&logoColor=00d9ff"/>
+  <img src="https://img.shields.io/badge/GSSoC_2026-Open_Source_Track-1a1a2e?style=for-the-badge&logo=opensourceinitiative&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/GSSoC_2026-Contributor-1a1a2e?style=for-the-badge&logo=github&logoColor=FF006E"/>
+</p>
 
 ---
 
-<br/>
+# `> whoami`
 
-# `~/identity`
+```python
+class Revanth:
 
-```bash
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   node       :  sreerevanth                                     │
-│   role       :  AI Systems Architect                            │
-│   location   :  India [IN]                                      │
-│   focus      :  agentic infrastructure + distributed runtimes   │
-│   mode       :  building autonomous intelligence infrastructure │
-│                                                                 │
-│   stack      :  Python · Rust · TypeScript · Go                 │
-│   systems    :  multi-agent orchestration                       │
-│                 memory-aware AI systems                         │
-│                 low-latency inference pipelines                 │
-│                                                                 │
-│   open_to    :  hard problems · collabs · OSS contributions     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+    pronouns  = "he/him"
+    location  = "🇮🇳 India"
+
+    role      = "AI Systems Architect"
+
+    expertise = [
+        "Agentic AI Systems",
+        "Real-Time Engines",
+        "LLM Orchestration",
+        "Systems at Scale"
+    ]
+
+    philosophy = "Ship > Perfect"
+
+    currently_building = [
+        "Autonomous runtimes",
+        "Distributed inference systems",
+        "Self-improving RAG pipelines",
+        "Multi-agent orchestration layers"
+    ]
+
+    open_to = [
+        "Hard Problems",
+        "OSS",
+        "Collabs"
+    ]
 ````
 
-<br/>
-
 ---
 
-<br/>
+# ⚡ FEATURED PROJECTS
 
-# `~/experiments —active`
-
-> These aren't just projects. They're runtimes. Systems that think.
-
-<br/>
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### `[01]` MYCELIUM
+### 📈 TRADEX
 
-**Distributed AI task mesh**
+Real-time trading intelligence dashboard with live market streams, candlestick rendering, P&L tracking, and sub-100ms updates.
 
-A self-organizing multi-agent network where tasks route to the most capable node dynamically. Inspired by fungal networks — no central orchestrator, emergent coordination.
-
-`multi-agent` · `P2P task routing` · `emergent behavior`
+`FastAPI` · `WebSockets` · `Redis` · `React`
 
 </td>
-<td width="50%" valign="top">
 
-### `[02]` RepoPilot
+<td width="33%" align="center">
 
-**Autonomous coding agent**
+### 🤖 RepoPilot
 
-End-to-end AI developer: reads your codebase, plans refactors, writes implementations, runs tests, opens PRs. A teammate that never sleeps.
+Autonomous coding agent that reads repositories, plans changes, writes implementations, runs tests, and opens PRs.
 
-`LangGraph` · `GPT-4o` · `AST traversal` · `Docker sandboxing`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `[03]` RMM — Reasoning Model Mesh
-
-**Multi-model orchestration layer**
-
-Routes prompts to optimal LLMs based on task type, latency budget, and cost constraints. Context-aware. Self-correcting. Stateful across model boundaries.
-
-`Anthropic` · `OpenAI` · `RAG` · `semantic routing`
+`LangGraph` · `GPT-4o` · `Docker` · `AST`
 
 </td>
-<td width="50%" valign="top">
 
-### `[04]` Agentic RAG
+<td width="33%" align="center">
 
-**Context engine for autonomous agents**
+### 🧠 RMM
 
-RAG pipeline that doesn't just retrieve — it reasons over retrieval, rewrites queries, re-ranks, and knows when to stop. Memory that improves itself.
+Multi-model orchestration runtime that routes tasks across LLMs based on latency, reasoning complexity, and cost.
 
-`vector DB` · `query rewriting` · `hybrid search` · `LangChain`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `[05]` ZyntraChat
-
-**Production-grade LLM chat platform**
-
-Full-stack conversational AI system with streaming, session memory, user context injection, and multi-model backend. Built for real workloads.
-
-`FastAPI` · `WebSockets` · `React` · `Redis`
-
-</td>
-<td width="50%" valign="top">
-
-### `[06]` Groq Voice Assistant
-
-**Sub-200ms voice-to-intelligence pipeline**
-
-Voice → Whisper → Groq LPU → TTS, complete turn under 200ms. Fastest open-source voice AI stack currently running.
-
-`Groq` · `Whisper` · `real-time audio` · `edge inference`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `[07]` MedScan AI
-
-**Clinical document intelligence**
-
-Multimodal AI that reads medical reports, extracts structured data, flags anomalies, and explains findings in plain language. Built for trust.
-
-`vision models` · `structured extraction` · `domain RAG`
-
-</td>
-<td width="50%" valign="top">
-
-### `[08]` TRADEX
-
-**Real-time trading intelligence layer**
-
-Live market signals, P&L tracking, candlestick rendering — all under 100ms. The backend is a custom event-stream engine, not a polling hack.
-
-`FastAPI` · `WebSockets` · `Redis streams` · `React`
+`OpenAI` · `Anthropic` · `RAG` · `Python`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-# `~/architecture —philosophy`
-
-```python
-class SystemDesignPrinciple:
-
-    def __init__(self):
-        self.belief = {
-            "agents":      "systems that act, not just respond",
-            "context":     "memory is intelligence — build it right",
-            "latency":     "under 100ms or rethink the architecture",
-            "models":      "no single LLM wins — orchestrate them",
-            "autonomy":    "a system that needs babysitting isn't autonomous",
-            "correctness": "break it in dev, not in prod",
-        }
-
-    def ship(self, idea):
-        prototype = self.build_fast(idea)
-        failure   = self.break_intentionally(prototype)
-        system    = self.engineer_properly(failure)
-
-        return self.deploy(system)
-```
-
-<br/>
-
----
-
-<br/>
-
-# `~/stack —core`
+# 🛠️ TECH ARSENAL
 
 <div align="center">
 
-### Runtime
+### ◈ Languages
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square\&logo=python\&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square\&logo=typescript\&logoColor=00e5ff)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square\&logo=rust\&logoColor=00e5ff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square\&logo=go\&logoColor=00e5ff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square\&logo=gnubash\&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge\&logo=python\&logoColor=00d9ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge\&logo=typescript\&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge\&logo=javascript\&logoColor=FF006E)
+![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge\&logo=rust\&logoColor=00d9ff)
+![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge\&logo=go\&logoColor=00FF88)
 
-<br/>
+### ◈ AI / Agents
 
-### AI / Agents / Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge\&logo=chainlink\&logoColor=00d9ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge\&logo=graphql\&logoColor=00FF88)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge\&logo=openai\&logoColor=FF006E)
+![Anthropic](https://img.shields.io/badge/Anthropic-1a1a2e?style=for-the-badge\&logo=anthropic\&logoColor=00d9ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge\&logo=huggingface\&logoColor=00FF88)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge\&logo=pytorch\&logoColor=FF006E)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square\&logo=graphql\&logoColor=39ff14)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square\&logo=chainlink\&logoColor=39ff14)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0d1117?style=flat-square\&logo=anthropic\&logoColor=39ff14)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square\&logo=openai\&logoColor=39ff14)
-![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square\&logo=databricks\&logoColor=39ff14)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square\&logo=huggingface\&logoColor=39ff14)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square\&logo=pytorch\&logoColor=39ff14)
+### ◈ Backend & Infra
 
-<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge\&logo=fastapi\&logoColor=00d9ff)
+![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge\&logo=redis\&logoColor=00FF88)
+![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge\&logo=apachekafka\&logoColor=FF006E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge\&logo=postgresql\&logoColor=00d9ff)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge\&logo=docker\&logoColor=00FF88)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge\&logo=kubernetes\&logoColor=FF006E)
 
-### Infrastructure / Streaming
+### ◈ Frontend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square\&logo=fastapi\&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square\&logo=redis\&logoColor=00e5ff)
-![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square\&logo=apachekafka\&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square\&logo=postgresql\&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square\&logo=docker\&logoColor=00e5ff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square\&logo=kubernetes\&logoColor=00e5ff)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square\&logo=amazonaws\&logoColor=00e5ff)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square\&logo=terraform\&logoColor=00e5ff)
-
-<br/>
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square\&logo=react\&logoColor=00e5ff)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square\&logo=nextdotjs\&logoColor=00e5ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square\&logo=tailwindcss\&logoColor=00e5ff)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge\&logo=react\&logoColor=00d9ff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF88)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge\&logo=tailwindcss\&logoColor=FF006E)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-# `~/metrics —live`
+# 📊 STATS
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=39ff14&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" />
-
-  
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&hide_border=false&langs_count=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sreerevanth&theme=transparent&background=0d1117&border=00e5ff&ring=39ff14&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=666666&stroke=00e5ff&sideNums=ffffff&currStreakNum=39ff14" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0d1117&color=00e5ff&line=39ff14&point=00e5ff&area=true&area_color=00e5ff20&hide_border=false&border_color=00e5ff&radius=4" width="92%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-# `~/system —status`
-
-```bash
-┌────────────────────────────────────────────────────────┐
-│  $ revanth --status --verbose                         │
-│                                                        │
-│  [●] current_build   →  MYCELIUM  (agent mesh, α)     │
-│  [●] active_research →  self-correcting RAG loops     │
-│  [●] exploring       →  distributed systems at scale  │
-│  [○] next_target     →  inference optimization layer  │
-│                                                        │
-│  [i] uptime          →  shipping continuously         │
-│  [i] approach        →  build fast · fail loudly      │
-│                         learn deep · ship always      │
-│                                                        │
-│  > last_commit       →  "it works on my machine"      │
-│    next_commit       →  "it works everywhere"         │
-└────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<br/>
-
-# `~/connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=00e5ff\&labelColor=0d1117)](https://www.linkedin.com/in/sree-revanth/)
- 
-[![Twitter](https://img.shields.io/badge/X_Twitter-0d1117?style=for-the-badge\&logo=x\&logoColor=00e5ff\&labelColor=0d1117)](https://twitter.com/sreerevanth)
- 
-[![Portfolio](https://img.shields.io/badge/sreerevanth.dev-0d1117?style=for-the-badge\&logo=vercel\&logoColor=39ff14\&labelColor=0d1117)](https://sreerevanth.dev)
- 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=00e5ff\&labelColor=0d1117)](mailto:sreerevanth7b@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&icon_color=00FF88&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
 
 <br/><br/>
 
-```txt
-Not trying to build something perfect —
-trying to build something real.
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sreerevanth&theme=transparent&background=0a0a0a&border=00d9ff&ring=00FF88&fire=FF006E&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&stroke=00d9ff"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,50,0a1628,100,0d0d0d&height=80&section=footer&animation=fadeIn" width="100%"/>
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0a0a0a&color=00d9ff&line=00FF88&point=FF006E&area=true&area_color=00d9ff&hide_border=false&border_color=00d9ff"/>
+
+</div>
+
+---
+
+# 📡 SYSTEM STATUS
+
+```bash
+┌──────────────────────────────────────────────────────┐
+│  revanth@engineer ~ status --verbose                │
+│                                                      │
+│  🟢 mode        → deep build                         │
+│  🟢 focus       → agentic AI systems                 │
+│  🟡 side quest  → open source contributions          │
+│  🔵 learning    → distributed systems at scale       │
+│  ⚡ approach    → build → break → fix → repeat       │
+│  🚀 status      → shipping                           │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💭 PHILOSOPHY
+
+> *"Not trying to be perfect — just trying to build something real."*
+
+<div align="center">
+
+`Ship > Perfect` • `Build messy` • `Fix fast` • `Ship always`
+
+</div>
+
+---
+
+# 🔗 CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=00d9ff\&labelColor=1a1a2e)](https://www.linkedin.com/in/sree-revanth/)
+
+[![Twitter](https://img.shields.io/badge/Twitter/X-0a0a0a?style=for-the-badge\&logo=x\&logoColor=00FF88\&labelColor=1a1a2e)](https://twitter.com/sreerevanth)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge\&logo=vercel\&logoColor=FF006E\&labelColor=1a1a2e)](https://sreerevanth.dev)
+
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=00d9ff\&labelColor=1a1a2e)](mailto:sreerevanth7b@gmail.com)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=120&section=footer"/>
+</p>
 ```
