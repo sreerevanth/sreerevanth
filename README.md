@@ -1,182 +1,335 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=SREEREVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=00FF88&center=true&vCenter=true&width=550&lines=Agentic+AI+Systems+Engineer;Real-Time+Decision+Engine+Builder;LLM+Orchestration+%26+Multi-Agent+Systems;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Ship+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
-</p>
+<!--
+  ASSET RECOMMENDATION:
+  Replace the banner below with a custom Midjourney/DALL-E image:
+  Prompt: "dark futuristic neural network lab, glowing cyan circuit traces,
+  monochromatic dark background, cinematic lighting, ultra-wide aspect ratio,
+  no text, abstract AI infrastructure aesthetic"
+  Or use: https://capsule-render.vercel.app (configured below)
+-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreerevanth&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d0d0d,10,0a1628,50,061020,100,0d0d0d&height=200&section=header&text=SREEREVANTH&fontSize=72&fontColor=00e5ff&animation=fadeIn&fontAlignY=55&stroke=00e5ff&strokeWidth=1" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Systems+%2F%2F+Autonomous+Runtimes;Multi-Model+Orchestration+%2F%2F+LLM+Infrastructure;Real-Time+Decision+Engines+%2F%2F+RAG+Pipelines;build+→+break+→+learn+→+ship" alt="Typing SVG"/>
+</div>
+
+<br/>
 
 ---
 
-## `> whoami`
+<br/>
 
-```python
-class Revanth:
-    pronouns     = "he/him"
-    location     = "🇮🇳 India"
-    role         = "AI Systems Architect"
-    expertise    = [
-        "Agentic AI Systems",
-        "Real-Time Engines",
-        "LLM Orchestration",
-        "Systems at Scale"
-    ]
-    philosophy   = "Ship > Perfect"
-    status       = "Architecting intelligence"
-    open_to      = ["Hard Problems", "Collabs", "OSS"]
+## `~/identity`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   node       :  sreerevanth                                     │
+│   role       :  AI Systems Architect                            │
+│   location   :  India [IN]                                      │
+│   mode       :  building autonomous intelligence infrastructure │
+│   stack      :  Python · Rust · TypeScript · Go                 │
+│   domain     :  agentic systems / multi-model orchestration     │
+│                 real-time AI / self-evolving runtimes           │
+│                                                                 │
+│   open_to    :  hard problems · collabs · OSS contributions     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
+<br/>
+
 ---
 
-## ⚡ FEATURED PROJECTS
+<br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>📈 TRADEX</b></td>
-    <td>Real-time trading dashboard — live signals, P&L, candlestick charts, sub-100ms latency</td>
-    <td><code>FastAPI</code> <code>WebSockets</code> <code>React</code> <code>Redis</code></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 RepoPilot</b></td>
-    <td>Autonomous AI coding agent — reads repos, plans, writes, tests, commits end-to-end</td>
-    <td><code>LangGraph</code> <code>GPT-4o</code> <code>AST</code> <code>Docker</code></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧠 RMM</b></td>
-    <td>Multi-model orchestration system — routes tasks to optimal LLMs, manages context</td>
-    <td><code>Anthropic</code> <code>OpenAI</code> <code>RAG</code> <code>Python</code></td>
-  </tr>
+## `~/experiments —active`
+
+> These aren't just projects. They're runtimes. Systems that think.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `[01]` MYCELIUM
+**Distributed AI task mesh**
+
+A self-organizing multi-agent network where tasks route to the most capable node dynamically. Inspired by fungal networks — no central orchestrator, emergent coordination.
+
+`multi-agent` · `P2P task routing` · `emergent behavior`
+
+</td>
+<td width="50%" valign="top">
+
+### `[02]` RepoPilot
+**Autonomous coding agent**
+
+End-to-end AI developer: reads your codebase, plans refactors, writes implementations, runs tests, opens PRs. A teammate that never sleeps.
+
+`LangGraph` · `GPT-4o` · `AST traversal` · `Docker sandboxing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[03]` RMM — Reasoning Model Mesh
+**Multi-model orchestration layer**
+
+Routes prompts to optimal LLMs based on task type, latency budget, and cost constraints. Context-aware. Self-correcting. Stateful across model boundaries.
+
+`Anthropic` · `OpenAI` · `RAG` · `semantic routing`
+
+</td>
+<td width="50%" valign="top">
+
+### `[04]` Agentic RAG
+**Context engine for autonomous agents**
+
+RAG pipeline that doesn't just retrieve — it reasons over retrieval, rewrites queries, re-ranks, and knows when to stop. Memory that improves itself.
+
+`vector DB` · `query rewriting` · `hybrid search` · `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[05]` ZyntraChat
+**Production-grade LLM chat platform**
+
+Full-stack conversational AI system with streaming, session memory, user context injection, and multi-model backend. Built for real workloads.
+
+`FastAPI` · `WebSockets` · `React` · `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### `[06]` Groq Voice Assistant
+**Sub-200ms voice-to-intelligence pipeline**
+
+Voice → Whisper → Groq LPU → TTS, complete turn under 200ms. Fastest open-source voice AI stack currently running.
+
+`Groq` · `Whisper` · `real-time audio` · `edge inference`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[07]` MedScan AI
+**Clinical document intelligence**
+
+Multimodal AI that reads medical reports, extracts structured data, flags anomalies, and explains findings in plain language. Built for trust.
+
+`vision models` · `structured extraction` · `domain RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### `[08]` TRADEX
+**Real-time trading intelligence layer**
+
+Live market signals, P&L tracking, candlestick rendering — all under 100ms. The backend is a custom event-stream engine, not a polling hack.
+
+`FastAPI` · `WebSockets` · `Redis streams` · `React`
+
+</td>
+</tr>
 </table>
 
+<br/>
+
 ---
 
-## 🛠️ TECH ARSENAL
+<br/>
+
+## `~/architecture —philosophy`
+
+```python
+class SystemDesignPrinciple:
+
+    def __init__(self):
+        self.belief = {
+            "agents":      "systems that act, not just respond",
+            "context":     "memory is intelligence — build it right",
+            "latency":     "under 100ms or rethink the architecture",
+            "models":      "no single LLM wins — orchestrate them",
+            "autonomy":    "a system that needs babysitting isn't autonomous",
+            "correctness": "break it in dev, not in prod",
+        }
+
+    def ship(self, idea):
+        prototype = self.build_fast(idea)           # move
+        failure   = self.break_intentionally(prototype)  # learn
+        system    = self.engineer_properly(failure)  # build
+        return self.deploy(system)                  # ship
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `~/stack —core`
 
 <div align="center">
 
-**◈ Languages**
+**Runtime**
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00d9ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=FF006E)
-![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=00d9ff)
-![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=00FF88)
-![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=FF006E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00e5ff)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00e5ff)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00e5ff)&nbsp;
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00e5ff)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00e5ff)
 
-**◈ AI / ML / Agents**
+**AI / Agents / Orchestration**
 
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=00d9ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=graphql&logoColor=00FF88)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=FF006E)
-![Anthropic](https://img.shields.io/badge/Anthropic-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=00d9ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=00FF88)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=FF006E)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=graphql&logoColor=39ff14)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=39ff14)&nbsp;
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-0d1117?style=flat-square&logo=anthropic&logoColor=39ff14)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=39ff14)&nbsp;
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=databricks&logoColor=39ff14)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=39ff14)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=39ff14)
 
-**◈ Backend & APIs**
+**Infrastructure / Streaming**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a1a2e?style=for-the-badge&logo=graphql&logoColor=FF006E)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=00d9ff)
-![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=00FF88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=FF006E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00e5ff)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00e5ff)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=00e5ff)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00e5ff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00e5ff)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00e5ff)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00e5ff)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=00e5ff)
 
-**◈ Infra & DevOps**
+**Frontend**
 
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=00d9ff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=00FF88)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF006E)
-![Terraform](https://img.shields.io/badge/Terraform-1a1a2e?style=for-the-badge&logo=terraform&logoColor=00d9ff)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=00FF88)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FF006E)
-
-**◈ Frontend**
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=00d9ff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=00FF88)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=FF006E)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00e5ff)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00e5ff)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00e5ff)
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 STATS
+<br/>
+
+## `~/metrics —live`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&icon_color=00FF88&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=39ff14&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&hide_border=false&langs_count=6" />
 
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sreerevanth&theme=transparent&background=0a0a0a&border=00d9ff&ring=00FF88&fire=FF006E&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&stroke=00d9ff"/>
+<img src="https://streak-stats.demolab.com?user=sreerevanth&theme=transparent&background=0d1117&border=00e5ff&ring=39ff14&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=666666&stroke=00e5ff&sideNums=ffffff&currStreakNum=39ff14" />
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0d1117&color=00e5ff&line=39ff14&point=00e5ff&area=true&area_color=00e5ff20&hide_border=false&border_color=00e5ff&radius=4" width="92%" alt="Contribution Graph"/>
+</div>
+
+<br/>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+<br/>
 
-<div align="center">
-  <img src="https://trophy.benkou.dev/?username=sreerevanth&theme=darkhub&no-frame=false&margin-w=10&column=6"/>
-</div>
-
----
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0a0a0a&color=00d9ff&line=00FF88&point=FF006E&area=true&area_color=00d9ff&hide_border=false&border_color=00d9ff&radius=6" alt="Contribution Activity Graph"/>
-</div>
-
----
-
-## 📡 SYSTEM STATUS
+## `~/system —status`
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  revanth@engineer  ~  status --verbose               │
-│                                                      │
-│  🟢  mode        →  deep build                       │
-│  🟢  focus       →  agentic AI systems               │
-│  🟡  side quest  →  open source contributions        │
-│  🔵  learning    →  distributed systems at scale     │
-│  ⚡  approach    →  build → break → fix → repeat     │
-│  🚀  status      →  shipping                         │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│  $ revanth --status --verbose                          │
+│                                                        │
+│  [●] current_build   →  MYCELIUM  (agent mesh, α)      │
+│  [●] active_research →  self-correcting RAG loops      │
+│  [●] exploring       →  distributed systems at scale   │
+│  [○] next_target     →  inference optimization layer   │
+│                                                        │
+│  [i] uptime          →  shipping continuously          │
+│  [i] approach        →  build fast · fail loudly       │
+│                         learn deep · ship always       │
+│                                                        │
+│  > last_commit       →  "it works on my machine"       │
+│    next_commit       →  "it works everywhere"          │
+└────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 💭 PHILOSOPHY
-
-> *"Not trying to be perfect — just trying to build something real."*
->
-> Ship > Perfect &nbsp;|&nbsp; Build messy &nbsp;|&nbsp; Fix fast &nbsp;|&nbsp; Ship always
+<br/>
 
 ---
 
-## 🔗 CONNECT
+<br/>
+
+## `~/contact —open`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=1a1a2e)](https://www.linkedin.com/in/sree-revanth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0d1117)](https://www.linkedin.com/in/sree-revanth/)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=00FF88&labelColor=1a1a2e)](https://twitter.com/sreerevanth)
+[![Twitter](https://img.shields.io/badge/X_Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00e5ff&labelColor=0d1117)](https://twitter.com/sreerevanth)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=FF006E&labelColor=1a1a2e)](https://sreerevanth.dev)
+[![Portfolio](https://img.shields.io/badge/sreerevanth.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=0d1117)](https://sreerevanth.dev)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=1a1a2e)](mailto:sreerevanth7b@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0d1117)](mailto:sreerevanth7b@gmail.com)
+
+<br/>
+
+*Not trying to build something perfect — trying to build something real.*
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=120&section=footer&animation=fadeIn"/>
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,50,0a1628,100,0d0d0d&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+<!--
+═══════════════════════════════════════════════════
+  ASSET UPGRADE CHECKLIST
+═══════════════════════════════════════════════════
+
+  HERO BANNER (replace capsule-render above):
+  → Generate with Midjourney or DALL-E 3:
+    "cinematic dark AI lab, glowing cyan neural
+     traces on black background, ultra-wide 4:1,
+     no text, no faces, abstract circuit topology"
+  → Upload to repo as /assets/banner.gif or .png
+  → Replace img src with: ./assets/banner.png
+
+  PROFILE PICTURE:
+  → Use a clean high-contrast portrait or
+    an abstract AI-generated identity graphic
+  → Avatar should read clearly at 48x48px
+
+  CONTRIBUTION GRAPH:
+  → Consider pinning it to always show the
+    green → cyan gradient by customizing themes
+
+  OPTIONAL ADDITIONS:
+  → Add a short ~8s looping terminal GIF
+    showing one of your agents in action
+  → Embed it between stack and metrics sections
+  → Tools: Asciinema → gif-to-svg or terminalizer
+
+═══════════════════════════════════════════════════
+-->
