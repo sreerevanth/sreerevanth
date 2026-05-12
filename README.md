@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d0d0d,10,0a1628,50,061020,100,0d0d0d&height=200&section=header&text=SREEREVANTH&fontSize=72&fontColor=00e5ff&animation=fadeIn&fontAlignY=55&stroke=00e5ff&strokeWidth=1" width="100%"/>
