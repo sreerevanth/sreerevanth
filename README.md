@@ -1,16 +1,4 @@
-Your structure is already clean. The main issue was too many heavy/generated image endpoints competing + inconsistent spacing + some badge services failing randomly.
 
-This optimized version:
-
-* keeps your exact aesthetic
-* keeps animations
-* keeps all sections
-* adds your GSSoC 2026 badges cleanly
-* removes unstable stuff that breaks on GitHub mobile
-* fixes alignment + spacing
-* makes rendering faster + cleaner
-
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=SREEREVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
 </p>
