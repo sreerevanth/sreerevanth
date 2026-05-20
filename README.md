@@ -1,127 +1,148 @@
 
 <div align="center">
 
-<img src="<img width="680" height="428" alt="212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" src="https://github.com/user-attachments/assets/8025919c-9973-4816-96fc-c5bc4ef89409" />
-" width="100%">
+<img src="YOUR_MAIN_BANNER_GIF" width="650">
 
 # 🐾 Hi, I'm Revanth's Octocat.
 
-<img src="<img width="2000" height="2000" alt="octocat-1779264441239" src="https://github.com/user-attachments/assets/035e9101-97e2-44b1-a34d-cff9cbcb6976" />
-" width="250">
+<img src="YOUR_OCTOCAT_IMAGE" width="220">
 
 ### I live inside this GitHub profile.
 
 ### My owner?
-A sleep-deprived developer building AI agents,  
-breaking production at 2AM,  
-and somehow turning chaos into projects.
+
+A developer who survives on caffeine,  
+open source chaos,  
+and late-night ideas that somehow become real projects.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+AI+Agents...;Contributing+to+Open+Source...;Creating+Chaos+Since+Day+1...;Probably+Debugging+Right+Now..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+Agents...;Contributing+to+Open+Source...;Turning+Ideas+Into+Projects...;Probably+Debugging+Right+Now..." />
 
 </div>
 
 ---
 
-<div align="center">
+<br>
 
-## ⚡ SYSTEM STATUS
+<p align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="90">
+</p>
 
-| Component | Status |
-|---|---|
-| brain.exe | 🟢 running |
-| caffeine levels | 🟢 stable |
-| AI experiments | 🟢 active |
-| sleep schedule | 🔴 corrupted |
-| unfinished side projects | ☠️ too many |
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
-</div>
-
-# 🧠 ABOUT MY HUMAN
-
-```bash
-> whoami
-
-sree revanth
-
-> current_state
-
-building weird AI systems
-contributing to open source
-creating startup ideas at midnight
-learning backend systems deeply
-
-> warning
-
-may accidentally build something dangerous
-```
-
----
-
-# ⚔️ ACTIVE MISSIONS
-
-<div align="center">
-
-| Mission | Progress |
-|---|---|
-| 🤖 Building AgentWatch | ██████████░░ |
-| 🚀 Building NEXRA | █████████░░░ |
-| 🌍 Open Source Contributions | ███████████░ |
-| 🧠 AI Agent Research | ██████████░░ |
-| ☕ Fixing Sleep Schedule | ░░░░░░░░░░░░ |
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600">
-</div>
-
-# 🛠️ WEAPONS OF CHOICE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,cpp,c,java,mongodb,mysql,git,github,linux,vscode,docker,firebase,figma" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-</div>
-
-# 📖 ORIGIN STORY
+# 🌌 Chapter 1 — The Beginning
 
 ```txt
-Started coding out of curiosity.
-Stayed for the chaos.
+He started coding out of curiosity.
 
-Now:
-- building AI agents
-- contributing to OSS
-- shipping side projects
-- organizing communities
-- trying to change things before turning 20
+Then somehow:
+- bugs became adventures
+- terminals became home
+- and side projects became obsessions
 ```
 
 ---
 
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="110">
+</p>
+
+# ⚡ Chapter 2 — The Chaos Arc
+
+```txt
+Soon came:
+- hackathons
+- open source
+- AI systems
+- random midnight ideas
+
+Sleep schedule?
+Destroyed.
+```
+
+---
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="100">
+</p>
+
+# 🧠 SYSTEM STATUS
+
+```bash
+STATUS: ACTIVE
+
+brain.exe                🟢 running
+ai_agent_experiments     🟢 active
+unfinished_sideprojects  ☠️ too many
+sleep_schedule           🔴 corrupted
+```
+
+---
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100">
+</p>
+
+# 🚀 Chapter 3 — The Builder Arc
+
+```txt
+Some people play games.
+
+He builds systems instead.
+```
+
+### Current Missions
+
+- ⚡ Building AI Agents
+- ⚡ Contributing to Open Source
+- ⚡ Building NEXRA
+- ⚡ Exploring Backend Systems
+- ⚡ Creating weird ideas before college
+
+---
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="120">
+</p>
+
+# 🛠️ Weapons of Choice
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,c,cpp,java,mongodb,mysql,linux,git,github,vscode,docker,firebase" />
+
 </div>
 
-# 🌌 DAILY LIFE
+---
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="120">
+</p>
+
+# 🤖 Chapter 4 — The AI Obsession
+
+```txt
+At some point...
+
+the projects stopped being experiments.
+
+They started becoming systems.
+```
+
+### Current Interests
+
+- Autonomous AI Agents
+- Backend Architectures
+- Open Source Ecosystems
+- System Design
+- AI + Automation
+
+---
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="120">
+</p>
+
+# ⚔️ Daily Boss Fights
 
 ```python
 while alive:
@@ -132,25 +153,21 @@ while alive:
     repeat()
 ```
 
----
+### Current Enemies
 
-# ☠️ CURRENT ENEMIES
-
-- merge conflicts
-- semicolons
-- production bugs
-- unfinished side quests
-- "works on my machine"
+- Merge conflicts
+- Semicolons
+- Production bugs
+- "Works on my machine"
+- Unfinished side quests
 
 ---
 
-<div align="center">
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="100">
+</p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="400">
-
-</div>
-
-# 📊 GITHUB CONTROL PANEL
+# 📊 Mission Progress
 
 <div align="center">
 
@@ -160,7 +177,7 @@ while alive:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -170,60 +187,46 @@ while alive:
 
 ---
 
-# 🚀 CURRENTLY LEARNING
+<p align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="90">
+</p>
 
-<div align="center">
+# 🌃 Chapter 5 — Late Night Thoughts
 
-| Skill | Level |
-|---|---|
-| Backend Systems | ████████░░ |
-| AI Agents | ██████████ |
-| System Design | ██████░░░░ |
-| Open Source | ██████████ |
-| Production Scaling | █████░░░░░ |
+```txt
+And somewhere between:
+- commits
+- debugging sessions
+- unfinished ideas
+- and open tabs...
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500">
-
-</div>
-
-# 🧩 FUN FACTS
-
-```yaml
-age: 17
-status: building
-favorite_activity: creating side projects
-weakness: starting too many ideas
-current_obsession: autonomous AI systems
+he kept building.
 ```
 
 ---
 
-<div align="center">
+<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-</div>
-
-# 🌍 CONNECT
+# 🌍 Connect With Him
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_GITHUB">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" />
+  <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="YOUR_DISCORD">
+  <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </div>
@@ -232,12 +235,15 @@ current_obsession: autonomous AI systems
 
 <div align="center">
 
-## 🐾 FINAL MESSAGE FROM THE OCTOCAT
+## 🐾 Final Message From The Octocat
 
-> If you're reading this...
-> he's probably building another project right now.
+```txt
+If you're reading this...
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+he's probably building another side project right now.
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="220">
 
 ### // transmission terminated
 
@@ -246,7 +252,8 @@ current_obsession: autonomous AI systems
 </div>
 
 <!--
-if you found this comment...
-yes the octocat is overworked
+if you found this hidden comment...
+
+yes the octocat is overworked.
 -->
 ````
