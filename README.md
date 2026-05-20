@@ -11,7 +11,7 @@
 
 <td width="68%">
 
-# 🐙 My Octocat:
+## <img src="https://github.com/user-attachments/assets/a0043374-9825-43af-ade8-d8c8450e08c7" width="35"> My Octocat
 
 ### Here's what I know about my human:
 
