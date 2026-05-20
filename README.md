@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img src="<img width="680" height="428" alt="212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" src="https://github.com/user-attachments/assets/dbc5c87c-c2e6-49f1-965e-a741cd2a410a"
-" width="650">
+<img src="src="https://github.com/user-attachments/assets/dbc5c87c-c2e6-49f1-965e-a741cd2a410a" width="650">
 
 # 🐾 Hi, I'm Revanth's Octocat.
 
