@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Welcome to Revanth.exe
+## 🐾 Welcome to Revanth.exe
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <td width="68%">
 
-## <img src="[https://github.com/user-attachments/assets/a0043374-9825-43af-ade8-d8c8450e08c7](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)" width="35"> My Octocat
+##<img src="https://github.com/user-attachments/assets/a0043374-9825-43af-ade8-d8c8450e08c7" width="35"> My Octocat
 
 ### Here's what I know about my human:
 
@@ -44,9 +44,10 @@
 
 <td width="28%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="170">
+<img src="https://github.com/user-attachments/assets/dfa90b89-7909-4978-94bd-37822a47b7a5" width="170">
 
 </td>
+
 
 <td width="72%">
 
