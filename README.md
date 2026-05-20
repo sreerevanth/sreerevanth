@@ -11,7 +11,7 @@
 
 <td width="68%">
 
-## <img src="https://github.com/user-attachments/assets/a0043374-9825-43af-ade8-d8c8450e08c7" width="35"> My Octocat
+## <img src="[https://github.com/user-attachments/assets/a0043374-9825-43af-ade8-d8c8450e08c7](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)" width="35"> My Octocat
 
 ### Here's what I know about my human:
 
