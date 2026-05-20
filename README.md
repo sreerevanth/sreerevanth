@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="src="https://github.com/user-attachments/assets/dbc5c87c-c2e6-49f1-965e-a741cd2a410a" width="650">
+<img src="https://github.com/user-attachments/assets/dbc5c87c-c2e6-49f1-965e-a741cd2a410a" width="650">
 
 # 🐾 Hi, I'm Revanth's Octocat.
 
-<img src="<img width="2000" height="2000" alt="octocat-1779264441239" src="https://github.com/user-attachments/assets/b3232473-7303-4257-9f84-68d7ce0b1e85" />
+<img src="https://github.com/user-attachments/assets/b3232473-7303-4257-9f84-68d7ce0b1e85" width="220">
 " width="220">
 
 ### I live inside this GitHub profile.
