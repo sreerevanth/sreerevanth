@@ -6,7 +6,7 @@
 # 🐾 Hi, I'm Revanth's Octocat.
 
 <img src="https://github.com/user-attachments/assets/b3232473-7303-4257-9f84-68d7ce0b1e85" width="220">
-" width="220">
+
 
 ### I live inside this GitHub profile.
 
