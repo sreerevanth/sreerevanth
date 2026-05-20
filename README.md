@@ -1,209 +1,252 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=260&section=header&text=SREEREVANTH&fontSize=80&fontColor=00d9ff&animation=fadeIn&fontAlignY=45&desc=AI+Systems+Architect+%7C+Builder+%7C+Shipper&descSize=17&descAlignY=65&descColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems+Engineer;Real-Time+Decision+Engine+Builder;LLM+Orchestration+%26+Multi-Agent+Systems;Distributed+Inference+%2F%2F+Autonomous+Runtimes;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Ship+%F0%9F%9A%80"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreerevanth&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSSoC_2026-AI_Agents_Track-1a1a2e?style=for-the-badge&logo=openai&logoColor=00d9ff"/>
-  <img src="https://img.shields.io/badge/GSSoC_2026-Open_Source_Track-1a1a2e?style=for-the-badge&logo=opensourceinitiative&logoColor=00FF88"/>
-  <img src="https://img.shields.io/badge/GSSoC_2026-Contributor-1a1a2e?style=for-the-badge&logo=github&logoColor=FF006E"/>
-</p>
-
----
-
-# `> whoami`
-
-```python
-class Revanth:
-
-    pronouns  = "he/him"
-    location  = "🇮🇳 India"
-
-    role      = "AI Systems Architect"
-
-    expertise = [
-        "Agentic AI Systems",
-        "Real-Time Engines",
-        "LLM Orchestration",
-        "Systems at Scale"
-    ]
-
-    philosophy = "Ship > Perfect"
-
-    currently_building = [
-        "Autonomous runtimes",
-        "Distributed inference systems",
-        "Self-improving RAG pipelines",
-        "Multi-agent orchestration layers"
-    ]
-
-    open_to = [
-        "Hard Problems",
-        "OSS",
-        "Collabs"
-    ]
-````
-
----
-
-# ⚡ FEATURED PROJECTS
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 📈 TRADEX
-
-Real-time trading intelligence dashboard with live market streams, candlestick rendering, P&L tracking, and sub-100ms updates.
-
-`FastAPI` · `WebSockets` · `Redis` · `React`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 RepoPilot
-
-Autonomous coding agent that reads repositories, plans changes, writes implementations, runs tests, and opens PRs.
-
-`LangGraph` · `GPT-4o` · `Docker` · `AST`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 RMM
-
-Multi-model orchestration runtime that routes tasks across LLMs based on latency, reasoning complexity, and cost.
-
-`OpenAI` · `Anthropic` · `RAG` · `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ TECH ARSENAL
-
 <div align="center">
 
-### ◈ Languages
+<img src="<img width="680" height="428" alt="212749171-b84692a8-2b04-4e3b-93ca-ac14705da224" src="https://github.com/user-attachments/assets/8025919c-9973-4816-96fc-c5bc4ef89409" />
+" width="100%">
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge\&logo=python\&logoColor=00d9ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge\&logo=typescript\&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge\&logo=javascript\&logoColor=FF006E)
-![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge\&logo=rust\&logoColor=00d9ff)
-![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge\&logo=go\&logoColor=00FF88)
+# 🐾 Hi, I'm Revanth's Octocat.
 
-### ◈ AI / Agents
+<img src="<img width="2000" height="2000" alt="octocat-1779264441239" src="https://github.com/user-attachments/assets/035e9101-97e2-44b1-a34d-cff9cbcb6976" />
+" width="250">
 
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge\&logo=chainlink\&logoColor=00d9ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge\&logo=graphql\&logoColor=00FF88)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge\&logo=openai\&logoColor=FF006E)
-![Anthropic](https://img.shields.io/badge/Anthropic-1a1a2e?style=for-the-badge\&logo=anthropic\&logoColor=00d9ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge\&logo=huggingface\&logoColor=00FF88)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge\&logo=pytorch\&logoColor=FF006E)
+### I live inside this GitHub profile.
 
-### ◈ Backend & Infra
+### My owner?
+A sleep-deprived developer building AI agents,  
+breaking production at 2AM,  
+and somehow turning chaos into projects.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge\&logo=fastapi\&logoColor=00d9ff)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge\&logo=redis\&logoColor=00FF88)
-![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge\&logo=apachekafka\&logoColor=FF006E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge\&logo=postgresql\&logoColor=00d9ff)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge\&logo=docker\&logoColor=00FF88)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge\&logo=kubernetes\&logoColor=FF006E)
+<br>
 
-### ◈ Frontend
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge\&logo=react\&logoColor=00d9ff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF88)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge\&logo=tailwindcss\&logoColor=FF006E)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Building+AI+Agents...;Contributing+to+Open+Source...;Creating+Chaos+Since+Day+1...;Probably+Debugging+Right+Now..." />
 
 </div>
 
 ---
 
-# 📊 STATS
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&icon_color=00FF88&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
+## ⚡ SYSTEM STATUS
 
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&theme=transparent&bg_color=0a0a0a&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sreerevanth&theme=transparent&background=0a0a0a&border=00d9ff&ring=00FF88&fire=FF006E&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&stroke=00d9ff"/>
+| Component | Status |
+|---|---|
+| brain.exe | 🟢 running |
+| caffeine levels | 🟢 stable |
+| AI experiments | 🟢 active |
+| sleep schedule | 🔴 corrupted |
+| unfinished side projects | ☠️ too many |
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&bg_color=0a0a0a&color=00d9ff&line=00FF88&point=FF006E&area=true&area_color=00d9ff&hide_border=false&border_color=00d9ff"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
 </div>
 
----
-
-# 📡 SYSTEM STATUS
+# 🧠 ABOUT MY HUMAN
 
 ```bash
-┌──────────────────────────────────────────────────────┐
-│  revanth@engineer ~ status --verbose                │
-│                                                      │
-│  🟢 mode        → deep build                         │
-│  🟢 focus       → agentic AI systems                 │
-│  🟡 side quest  → open source contributions          │
-│  🔵 learning    → distributed systems at scale       │
-│  ⚡ approach    → build → break → fix → repeat       │
-│  🚀 status      → shipping                           │
-└──────────────────────────────────────────────────────┘
+> whoami
+
+sree revanth
+
+> current_state
+
+building weird AI systems
+contributing to open source
+creating startup ideas at midnight
+learning backend systems deeply
+
+> warning
+
+may accidentally build something dangerous
 ```
 
 ---
 
-# 💭 PHILOSOPHY
-
-> *"Not trying to be perfect — just trying to build something real."*
+# ⚔️ ACTIVE MISSIONS
 
 <div align="center">
 
-`Ship > Perfect` • `Build messy` • `Fix fast` • `Ship always`
+| Mission | Progress |
+|---|---|
+| 🤖 Building AgentWatch | ██████████░░ |
+| 🚀 Building NEXRA | █████████░░░ |
+| 🌍 Open Source Contributions | ███████████░ |
+| 🧠 AI Agent Research | ██████████░░ |
+| ☕ Fixing Sleep Schedule | ░░░░░░░░░░░░ |
 
 </div>
 
 ---
 
-# 🔗 CONNECT
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600">
+</div>
+
+# 🛠️ WEAPONS OF CHOICE
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=00d9ff\&labelColor=1a1a2e)](https://www.linkedin.com/in/sree-revanth/)
-
-[![Twitter](https://img.shields.io/badge/Twitter/X-0a0a0a?style=for-the-badge\&logo=x\&logoColor=00FF88\&labelColor=1a1a2e)](https://twitter.com/sreerevanth)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge\&logo=vercel\&logoColor=FF006E\&labelColor=1a1a2e)](https://sreerevanth.dev)
-
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=00d9ff\&labelColor=1a1a2e)](mailto:sreerevanth7b@gmail.com)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,cpp,c,java,mongodb,mysql,git,github,linux,vscode,docker,firebase,figma" />
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,30&height=120&section=footer"/>
-</p>
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+</div>
+
+# 📖 ORIGIN STORY
+
+```txt
+Started coding out of curiosity.
+Stayed for the chaos.
+
+Now:
+- building AI agents
+- contributing to OSS
+- shipping side projects
+- organizing communities
+- trying to change things before turning 20
 ```
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600">
+</div>
+
+# 🌌 DAILY LIFE
+
+```python
+while alive:
+    code()
+    debug()
+    break_production()
+    fix_bug()
+    repeat()
+```
+
+---
+
+# ☠️ CURRENT ENEMIES
+
+- merge conflicts
+- semicolons
+- production bugs
+- unfinished side quests
+- "works on my machine"
+
+---
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="400">
+
+</div>
+
+# 📊 GITHUB CONTROL PANEL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true">
+
+</div>
+
+---
+
+# 🚀 CURRENTLY LEARNING
+
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| Backend Systems | ████████░░ |
+| AI Agents | ██████████ |
+| System Design | ██████░░░░ |
+| Open Source | ██████████ |
+| Production Scaling | █████░░░░░ |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500">
+
+</div>
+
+# 🧩 FUN FACTS
+
+```yaml
+age: 17
+status: building
+favorite_activity: creating side projects
+weakness: starting too many ideas
+current_obsession: autonomous AI systems
+```
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+</div>
+
+# 🌍 CONNECT
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐾 FINAL MESSAGE FROM THE OCTOCAT
+
+> If you're reading this...
+> he's probably building another project right now.
+
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+
+### // transmission terminated
+
+### see you somewhere in the commit history.
+
+</div>
+
+<!--
+if you found this comment...
+yes the octocat is overworked
+-->
+````
