@@ -31,7 +31,7 @@ focus: AI systems, autonomous agents, observability, developer tooling
 philosophy: "One idea. One commit. One opportunity. That's all it takes."
 ```
 
-- 🔭 Creator & maintainer of **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — real-time reasoning auditor for AI agents, selected for **SSOC'26 Season 5** (14+ contributors, 27+ forks)
+- 🔭 Creator & maintainer of **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — real-time reasoning auditor for AI agents, selected for **SSOC'26 Season 5** (40+ contributors, 60+ forks)
 - 🌌 Founder of **[VoidSwift](https://github.com/voidswift)** — an open-source ecosystem built around meaningful contributions, not vanity metrics
 - 🌱 **GSSoC 2026** contributor — Open Source & AI/Agents tracks, climbed rank 1115 → 313 globally
 - 💼 Former Data Science Intern @ AgenixAI — shipped features for an AI Career Coach platform
