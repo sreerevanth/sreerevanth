@@ -72,6 +72,22 @@ I build AI systems, developer tools, and open-source infrastructure — currentl
 <br>
 
 ```bash
+$ git log --oneline --graph
+```
+
+```
+* 7a3f9e2 (HEAD -> main) selected for SSOC'26 Season 5
+* 4b8c1d0 crossed rank 313 globally in GSSoC 2026
+* e91a5f6 shipped AI Career Coach features @ AgenixAI
+* 2c6d8b3 founded VoidSwift — open source, minus the noise
+* 9f1e0a4 built AgentWatch after watching an agent fail silently
+* 5d2c7e8 (tag: v0.1.0) started coding in 2017
+* 0000000 root commit — booted up in Bengaluru
+```
+
+<br>
+
+```bash
 $ ls -la ~/achievements/
 ```
 
