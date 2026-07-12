@@ -41,28 +41,14 @@ philosophy: "One idea. One commit. One opportunity. That's all it takes."
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sreerevanth/AgentWatch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=AgentWatch&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-<a href="https://github.com/sreerevanth/repopilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=repopilot&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-<a href="https://github.com/sreerevanth/TRADEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=TRADEX&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-<a href="https://github.com/sreerevanth/VEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=VEX&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-<a href="https://github.com/sreerevanth/rmm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=rmm&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-<a href="https://github.com/sreerevanth/zyntrachat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sreerevanth&repo=zyntrachat&theme=default&hide_border=true&bg_color=fff&title_color=6C5CE7" />
-</a>
-
-</div>
+| Project | Description | |
+|---|---|---|
+| **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** | Real-time reasoning auditor & observability platform for AI agents | ![Stars](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/AgentWatch?style=flat&color=00D9FF) |
+| **[repopilot](https://github.com/sreerevanth/repopilot)** | Autonomous AI agent that analyzes, fixes, and tests repos until they pass | ![Stars](https://img.shields.io/github/stars/sreerevanth/repopilot?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/repopilot?style=flat&color=00D9FF) |
+| **[TRADEX](https://github.com/sreerevanth/TRADEX)** | Real-time intraday trading dashboard with live P&L & candlestick charts | ![Stars](https://img.shields.io/github/stars/sreerevanth/TRADEX?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/TRADEX?style=flat&color=00D9FF) |
+| **[VEX](https://github.com/sreerevanth/VEX)** | Blazing-fast incremental build system in Rust with remote CI caching | ![Stars](https://img.shields.io/github/stars/sreerevanth/VEX?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/VEX?style=flat&color=00D9FF) |
+| **[rmm](https://github.com/sreerevanth/rmm)** | CLI AI coding agent that orchestrates multiple models to build software | ![Stars](https://img.shields.io/github/stars/sreerevanth/rmm?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/rmm?style=flat&color=00D9FF) |
+| **[zyntrachat](https://github.com/sreerevanth/zyntrachat)** | Multi-model AI command center with automatic provider fallback | ![Stars](https://img.shields.io/github/stars/sreerevanth/zyntrachat?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/zyntrachat?style=flat&color=00D9FF) |
 
 <details>
 <summary><b>🩺 More projects — healthtech & safety AI</b></summary>
@@ -84,7 +70,20 @@ philosophy: "One idea. One commit. One opportunity. That's all it takes."
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,rust,react,nextjs,fastapi,postgres,redis,docker,git,githubactions,linux&theme=light" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 <br>
