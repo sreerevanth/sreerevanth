@@ -1,148 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00D9FF&height=220&section=header&text=S.%20Sreerevanth&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20@VoidSwift%20·%20Creator%20of%20AgentWatch%20·%20AI/ML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=90&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+AI+systems+%26+dev+tools+in+public;18+y%2Fo+%7C+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Founder+%40VoidSwift+%7C+Creator+of+AgentWatch;GSSoC+2026+%7C+SSOC%2726+Maintainer" alt="Typing SVG" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/sree-revanth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/SSreerevanth"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/s.sreerevanth/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.twitch.tv/sreerevanth"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-<a href="https://peerlist.io/sreerevanth"><img src="https://img.shields.io/badge/Peerlist-6C5CE7?style=for-the-badge&logo=readme&logoColor=white" /></a>
-<a href="https://github.com/voidswift"><img src="https://img.shields.io/badge/VoidSwift-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=sreerevanth&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=root%40sreerevanth%3A~%24+whoami;S.+Sreerevanth+%E2%80%94+Founder+%40VoidSwift;root%40sreerevanth%3A~%24+cat+status.txt;Building+AgentWatch+%7C+SSOC%2726+%7C+GSSoC+2026" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🧠 About Me
-
-```yaml
-name: S. Sreerevanth
-role: Founder @VoidSwift · Creator of AgentWatch · AI/ML Engineer · OSS Maintainer
-age: 18
-location: Bengaluru, India 🇮🇳
-studying: Ramaiah Polytechnic
-focus: AI systems, autonomous agents, observability, developer tooling
-philosophy: "One idea. One commit. One opportunity. That's all it takes."
+```
+$ neofetch --user sreerevanth
 ```
 
-- 🔭 Creator & maintainer of **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — real-time reasoning auditor for AI agents, selected for **SSOC'26 Season 5** (14+ contributors, 27+ forks)
-- 🌌 Founder of **[VoidSwift](https://github.com/voidswift)** — an open-source ecosystem built around meaningful contributions, not vanity metrics
-- 🌱 **GSSoC 2026** contributor — Open Source & AI/Agents tracks, climbed rank 1115 → 313 globally
-- 💼 Former Data Science Intern @ AgenixAI — shipped features for an AI Career Coach platform
-- 🚀 44 repos spanning AI agents, observability, healthtech AI, and dev infrastructure
+<table>
+<tr>
+<td>
 
-<div align="center">
+```
+       .---.
+      /     \
+      \.@-@./
+      /`\_/`\
+     //  _  \\
+    | \     )|_
+   /`\_`>  <_/ \
+   \__/'---'\__/
+```
 
-![Starstruck](https://img.shields.io/badge/🌟_Starstruck-6C5CE7?style=flat-square) ![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark_x2-00D9FF?style=flat-square) ![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-6C5CE7?style=flat-square) ![YOLO](https://img.shields.io/badge/🎲_YOLO-00D9FF?style=flat-square) ![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-6C5CE7?style=flat-square)
+</td>
+<td valign="top">
 
-</div>
+```
+S. Sreerevanth
+──────────────────────────────
+OS         : VoidSwift Linux
+Host       : Ramaiah Polytechnic
+Location   : Bengaluru, India 🇮🇳
+Age        : 18
+Role       : Founder @VoidSwift
+Creator    : AgentWatch
+Track      : GSSoC'26 · SSOC'26
+Shell      : /bin/python3
+Languages  : Python, TypeScript, Rust
+Uptime     : building since 2017
+Status     : shipping in public
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-> ### 🎯 Right now
-> **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** is live and growing — selected for **SSOC'26 Season 5**, currently sitting at **14+ contributors** and **27+ forks**, with a **Product Hunt launch in progress**. Built to catch the failure mode nobody was watching for: *an agent that confidently fails looks identical to one that correctly succeeds — unless something is watching the reasoning, not just the output.*
+```bash
+$ cat ~/about.md
+```
+
+> An agent that confidently fails looks identical to one that correctly
+> succeeds — unless something is watching the reasoning, not just the output.
+> That layer didn't exist. So I built it.
+
+I build AI systems, developer tools, and open-source infrastructure — currently focused on making autonomous agents observable and trustworthy in production. Founder of **[VoidSwift](https://github.com/voidswift)**, a community built on the belief that meaningful contributions matter more than contribution counts.
+
+```diff
++ 14 contributors on AgentWatch
++ 27 forks and climbing
++ Product Hunt launch in progress
++ GSSoC 2026: rank 1115 → 313 globally
+```
 
 <br>
 
-## 🚀 Featured Projects
+```bash
+$ ls -la ~/achievements/
+```
 
-| Project | Description | |
-|---|---|---|
-| **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** | Real-time reasoning auditor & observability platform for AI agents | ![Stars](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/AgentWatch?style=flat&color=00D9FF) |
-| **[repopilot](https://github.com/sreerevanth/repopilot)** | Autonomous AI agent that analyzes, fixes, and tests repos until they pass | ![Stars](https://img.shields.io/github/stars/sreerevanth/repopilot?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/repopilot?style=flat&color=00D9FF) |
-| **[TRADEX](https://github.com/sreerevanth/TRADEX)** | Real-time intraday trading dashboard with live P&L & candlestick charts | ![Stars](https://img.shields.io/github/stars/sreerevanth/TRADEX?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/TRADEX?style=flat&color=00D9FF) |
-| **[VEX](https://github.com/sreerevanth/VEX)** | Blazing-fast incremental build system in Rust with remote CI caching | ![Stars](https://img.shields.io/github/stars/sreerevanth/VEX?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/VEX?style=flat&color=00D9FF) |
-| **[rmm](https://github.com/sreerevanth/rmm)** | CLI AI coding agent that orchestrates multiple models to build software | ![Stars](https://img.shields.io/github/stars/sreerevanth/rmm?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/rmm?style=flat&color=00D9FF) |
-| **[zyntrachat](https://github.com/sreerevanth/zyntrachat)** | Multi-model AI command center with automatic provider fallback | ![Stars](https://img.shields.io/github/stars/sreerevanth/zyntrachat?style=flat&color=6C5CE7) ![Lang](https://img.shields.io/github/languages/top/sreerevanth/zyntrachat?style=flat&color=00D9FF) |
+`-rwxr-xr-x  🌟 starstruck`   `-rwxr-xr-x  🦈 pull-shark-x2`   `-rwxr-xr-x  🤝 pair-extraordinaire`   `-rwxr-xr-x  🎲 yolo`   `-rwxr-xr-x  ⚡ quickdraw`
+
+<br>
+
+```bash
+$ ls -la ~/projects/ | grep -v "^d"
+```
+
+```
+drwxr-xr-x  AgentWatch/          # real-time reasoning auditor for AI agents — SSOC'26 project
+drwxr-xr-x  repopilot/           # autonomous agent that fixes & tests repos until they pass
+drwxr-xr-x  TRADEX/              # real-time intraday trading dashboard, ORB strategy, live P&L
+drwxr-xr-x  VEX/                 # incremental build system in Rust, content-hash caching
+drwxr-xr-x  rmm/                 # CLI agent orchestrating multiple models to ship software
+drwxr-xr-x  zyntrachat/          # multi-model AI command center with automatic fallback
+```
 
 <details>
-<summary><b>🩺 More projects — healthtech & safety AI</b></summary>
+<summary><code>$ ls -la ~/projects/healthtech/</code></summary>
 <br>
 
-| Project | Description |
-|---|---|
-| **[medscan-ai](https://github.com/sreerevanth/medscan-ai)** | AI medical imaging analysis with Grad-CAM explainability |
-| **[cardiac-risk-assessment](https://github.com/sreerevanth/cardiac-risk-assessment)** | ML-based cardiac risk prediction from patient health metrics |
-| **[vital-ai](https://github.com/sreerevanth/vital-ai)** | Explains blood test PDFs in plain language using AI |
-| **[SentinelCV](https://github.com/sreerevanth/SentinelCV)** | Real-time vision AI for fall detection across CCTV/IP cameras |
-| **[healix](https://github.com/sreerevanth/healix)** | Self-healing Linux system that auto-repairs service failures |
-| **[nuerosim](https://github.com/sreerevanth/nuerosim)** | Production-grade computational neuroscience / brain simulation |
+```
+drwxr-xr-x  medscan-ai/              # medical imaging analysis w/ Grad-CAM explainability
+drwxr-xr-x  cardiac-risk-assessment/ # ML cardiac risk prediction from patient metrics
+drwxr-xr-x  vital-ai/                # explains blood test PDFs in plain language
+drwxr-xr-x  SentinelCV/              # real-time fall detection across CCTV/IP cameras
+drwxr-xr-x  healix/                  # self-healing linux system, auto-repairs failures
+drwxr-xr-x  nuerosim/                # computational neuroscience / brain simulation
+```
 
 </details>
 
 <br>
 
-## 🛠️ Tech Stack
+```bash
+$ cat ~/.stack
+```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14)
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=39FF14)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=redis&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF14)
 
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+```bash
+$ curl -s api.github.com/users/sreerevanth | jq
+```
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/sreerevanth?style=for-the-badge&color=6C5CE7&labelColor=181717)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sreerevanth&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00D9FF&labelColor=181717)
-![Stars on AgentWatch](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=for-the-badge&color=6C5CE7&labelColor=181717&label=AgentWatch%20Stars)
+![Followers](https://img.shields.io/github/followers/sreerevanth?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=39FF14&label=followers)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sreerevanth&query=%24.public_repos&style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=39FF14&label=public_repos)
+![AgentWatch Stars](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=39FF14&label=agentwatch_stars)
 
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
+```bash
+$ cat ~/.contact
+```
+
+```
+GitHub    → github.com/sreerevanth
+LinkedIn  → linkedin.com/in/sree-revanth
+X         → x.com/SSreerevanth
+Instagram → instagram.com/s.sreerevanth
+Twitch    → twitch.tv/sreerevanth
+Devfolio  → devfolio.co/@sreerevanth
+Dribbble  → dribbble.com/s-sreerevanth
+Peerlist  → peerlist.io/sreerevanth
+```
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sreerevanth/sreerevanth/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
 
-<sub>⚙️ To activate: add <a href="https://github.com/Platane/snk">Platane/snk</a> as a GitHub Action in this repo (runs on your own account, so it never goes down like third-party widgets). I've included the workflow file below — just save it as <code>.github/workflows/snake.yml</code>.</sub>
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/sreerevanth)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/sree-revanth)
+[![X](https://img.shields.io/badge/-X-0D1117?style=flat-square&logo=x&logoColor=39FF14)](https://x.com/SSreerevanth)
+[![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=instagram&logoColor=39FF14)](https://www.instagram.com/s.sreerevanth/)
+[![Twitch](https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=39FF14)](https://www.twitch.tv/sreerevanth)
+[![Devfolio](https://img.shields.io/badge/-Devfolio-0D1117?style=flat-square&logo=devfolio&logoColor=39FF14)](https://devfolio.co/@sreerevanth)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-0D1117?style=flat-square&logo=dribbble&logoColor=39FF14)](https://dribbble.com/s-sreerevanth)
+[![Peerlist](https://img.shields.io/badge/-Peerlist-0D1117?style=flat-square&logo=readme&logoColor=39FF14)](https://peerlist.io/sreerevanth)
+
+</div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C5CE7&height=1&section=header&width=100%" />
-</div>
 
-<br>
+```
+$ echo "Ideas are always welcome. Pull requests are even better." > motto.txt
+```
 
-<div align="center">
-
-### 📫 Let's connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreerevanth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-revanth)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s.sreerevanth/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SSreerevanth)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sreerevanth)
-[![Devfolio](https://img.shields.io/badge/Devfolio-1F2430?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@sreerevanth)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/s-sreerevanth)
-[![Peerlist](https://img.shields.io/badge/Peerlist-6C5CE7?style=for-the-badge&logo=readme&logoColor=white)](https://peerlist.io/sreerevanth)
-[![VoidSwift](https://img.shields.io/badge/VoidSwift_Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidswift)
-
-<i>Ideas are always welcome. Pull requests are even better.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C5CE7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=80&section=footer" width="100%"/>
 
 </div>
