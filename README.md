@@ -31,11 +31,22 @@ focus: AI systems, autonomous agents, observability, developer tooling
 philosophy: "One idea. One commit. One opportunity. That's all it takes."
 ```
 
-- 🔭 Creator & maintainer of **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — real-time reasoning auditor for AI agents, selected for **SSOC'26 Season 5** (40+ contributors, 60+ forks)
+- 🔭 Creator & maintainer of **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — real-time reasoning auditor for AI agents, selected for **SSOC'26 Season 5** (14+ contributors, 27+ forks)
 - 🌌 Founder of **[VoidSwift](https://github.com/voidswift)** — an open-source ecosystem built around meaningful contributions, not vanity metrics
 - 🌱 **GSSoC 2026** contributor — Open Source & AI/Agents tracks, climbed rank 1115 → 313 globally
 - 💼 Former Data Science Intern @ AgenixAI — shipped features for an AI Career Coach platform
 - 🚀 44 repos spanning AI agents, observability, healthtech AI, and dev infrastructure
+
+<div align="center">
+
+![Starstruck](https://img.shields.io/badge/🌟_Starstruck-6C5CE7?style=flat-square) ![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark_x2-00D9FF?style=flat-square) ![Pair Extraordinaire](https://img.shields.io/badge/🤝_Pair_Extraordinaire-6C5CE7?style=flat-square) ![YOLO](https://img.shields.io/badge/🎲_YOLO-00D9FF?style=flat-square) ![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-6C5CE7?style=flat-square)
+
+</div>
+
+<br>
+
+> ### 🎯 Right now
+> **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** is live and growing — selected for **SSOC'26 Season 5**, currently sitting at **14+ contributors** and **27+ forks**, with a **Product Hunt launch in progress**. Built to catch the failure mode nobody was watching for: *an agent that confidently fails looks identical to one that correctly succeeds — unless something is watching the reasoning, not just the output.*
 
 <br>
 
@@ -91,24 +102,25 @@ philosophy: "One idea. One commit. One opportunity. That's all it takes."
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sreerevanth&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=6C5CE7&icon_color=00D9FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreerevanth&layout=compact&hide_border=true&title_color=6C5CE7" height="165" />
+<img src="https://raw.githubusercontent.com/sreerevanth/sreerevanth/main/github-metrics.svg" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreerevanth&hide_border=true&background=FFFFFF00&ring=6C5CE7&fire=00D9FF&currStreakLabel=6C5CE7" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sreerevanth&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
+<sub>⚙️ Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — generated on your own repo via GitHub Action, so it doesn't depend on third-party servers. Workflow file included below.</sub>
 
 <br>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreerevanth&theme=minimal&hide_border=true&color=6C5CE7&line=00D9FF&point=6C5CE7" width="100%"/>
+<img src="https://raw.githubusercontent.com/sreerevanth/sreerevanth/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<sub>⚙️ To activate: add <a href="https://github.com/Platane/snk">Platane/snk</a> as a GitHub Action in this repo (runs on your own account, so it never goes down like third-party widgets). I've included the workflow file below — just save it as <code>.github/workflows/snake.yml</code>.</sub>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C5CE7&height=1&section=header&width=100%" />
 </div>
 
 <br>
