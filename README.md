@@ -102,10 +102,12 @@ philosophy: "One idea. One commit. One opportunity. That's all it takes."
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sreerevanth/sreerevanth/main/github-metrics.svg" width="100%" />
-</div>
 
-<sub>⚙️ Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — generated on your own repo via GitHub Action, so it doesn't depend on third-party servers. Workflow file included below.</sub>
+![Followers](https://img.shields.io/github/followers/sreerevanth?style=for-the-badge&color=6C5CE7&labelColor=181717)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sreerevanth&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00D9FF&labelColor=181717)
+![Stars on AgentWatch](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=for-the-badge&color=6C5CE7&labelColor=181717&label=AgentWatch%20Stars)
+
+</div>
 
 <br>
 
