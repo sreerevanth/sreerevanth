@@ -147,6 +147,20 @@ $ cat ~/.stack
 <br>
 
 ```bash
+$ ./skills.sh --progress
+```
+
+```
+Python        [██████████████████░░] 92%
+TypeScript    [████████████████░░░░] 80%
+Rust          [████████████░░░░░░░░] 60%
+LLMOps / RAG  [█████████████████░░░] 88%
+Sleep         [███░░░░░░░░░░░░░░░░░] 15%   # known bug, low priority
+```
+
+<br>
+
+```bash
 $ curl -s api.github.com/users/sreerevanth | jq
 ```
 
@@ -157,6 +171,45 @@ $ curl -s api.github.com/users/sreerevanth | jq
 ![AgentWatch Stars](https://img.shields.io/github/stars/sreerevanth/AgentWatch?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=39FF14&label=agentwatch_stars)
 
 </div>
+
+<br>
+
+```bash
+$ sudo apt install work-life-balance
+```
+
+```
+Reading package lists... Done
+E: Unable to locate package work-life-balance
+E: Did you mean: coffee, another-side-project, more-github-issues?
+```
+
+<br>
+
+```bash
+$ man sreerevanth
+```
+
+```
+SREEREVANTH(1)                General Commands Manual                SREEREVANTH(1)
+
+NAME
+       sreerevanth — builds things until they work, then builds more things
+
+SYNOPSIS
+       sreerevanth [--coffee] [--no-sleep] [--ship-it]
+
+DESCRIPTION
+       An 18-year-old process that spawns AI agents, observability tools,
+       and open-source communities. Known to run indefinitely. No known
+       method of graceful termination.
+
+SEE ALSO
+       AgentWatch(1), VoidSwift(7), GSSoC(2026)
+
+BUGS
+       Occasionally forks too many side projects. Not a bug — a feature.
+```
 
 <br>
 
