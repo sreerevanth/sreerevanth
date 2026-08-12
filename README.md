@@ -1,8 +1,4 @@
-# Hi, I'm Sreerevanth 👋
-
-AI/ML Engineer · Full-Stack Developer · Open Source Maintainer
-
-Building AI systems, developer tools, and open-source software. Founder of **VoidSwift**, creator of **AgentWatch**.
+<img width="1536" height="1024" alt="2de2f0ff-83ee-4208-9e44-cf9c7011a292" src="https://github.com/user-attachments/assets/d4d40672-1fc4-4132-b881-f7d3b048c7a0" />
 
 <p align="left">
   <a href="https://github.com/sreerevanth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -14,18 +10,3 @@ Building AI systems, developer tools, and open-source software. Founder of **Voi
   <a href="https://devfolio.co/@sreerevanth"><img src="https://img.shields.io/badge/Devfolio-2F2E41?style=for-the-badge&logo=devpost&logoColor=white" /></a>
   <a href="https://dribbble.com/s-sreerevanth"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
-
-## Featured Projects
-
-- **[AgentWatch](https://github.com/sreerevanth/AgentWatch)** — Real-time reasoning auditor and observability platform for AI agents. Catches silent failures before they hit production.
-- **ATLAS** — AI infrastructure that lets agents reason across enterprise data without the data leaving its source, using geometry-based retrieval and privacy-preserving cross-org compute.
-- **[AI-Agent-Skills](https://github.com/sreerevanth/AI-Agent-Skills)** — Open-source knowledge base for building AI agents, covering cognition, reasoning patterns, and deployment.
-- **[TRADEX](https://github.com/sreerevanth/TRADEX)** — Real-time intraday trading dashboard using the ORB strategy, with live P&L tracking and candlestick charts.
-- **[RepoPilot](https://github.com/sreerevanth/repopilot)** — Autonomous AI agent that analyzes repos, modifies code, runs tests, and self-corrects until it passes.
-- **VoidSwift** — Community-driven open-source ecosystem focused on real, long-term contributions over contribution counts.
-
-## Currently
-
-Building reliable AI infrastructure, growing open-source communities, and shipping tools for the next generation of intelligent applications.
-
-Ideas are always welcome. Pull requests are even better.
