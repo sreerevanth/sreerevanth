@@ -1,36 +1,20 @@
-# Hi, I'm Sreerevanth 👋
+# Sreerevanth
 
-### AI Agent Engineer · I build, secure and monitor production AI agents
+I build AI agents, and the tools that stop them from doing something they shouldn't.
 
-I help startups ship AI agents that actually work in production: reliable, observable, and safe to let loose on real tools and data.
+Most of my time goes into [AgentWatch](https://github.com/Shinraya-Tech-Labs/AgentWatch) at Shinraya Tech Labs. It reads an agent's reasoning before it acts and blocks the bad calls: the `rm -rf`, the `DROP TABLE`, the runaway API bill. 570+ commits in, it's on PyPI as `agentwatch-ai` and gets contributors through SSOC and NSOC.
 
-🟢 **Open to freelance & contract work** · 📩 sreerevanth7b@gmail.com · [LinkedIn](https://www.linkedin.com/in/sree-revanth)
+Other things I've been working on:
 
----
+- **[adacompute](https://github.com/sreerevanth/adacompute)**: letting a model decide how much to think per input, instead of spending the same compute on an easy question and a hard one.
+- **[robust-reasoning-rl](https://github.com/sreerevanth/robust-reasoning-rl)**: when you train reasoning with GRPO against a noisy verifier, does the model get more correct, or just better at fooling the verifier?
+- **[TRADEX](https://github.com/sreerevanth/TRADEX)**: an intraday trading dashboard with ORB signals, live P&L and candlestick charts.
+- **[nuerosim](https://github.com/sreerevanth/nuerosim)**: brain simulation with Hodgkin-Huxley neurons and cable equations.
 
-## 🛠️ What I can build for you
+## Work with me
 
-- **AI agents & automations:** multi-step agents with LangGraph, CrewAI, AutoGen and LangChain, connected to your tools, APIs and databases
-- **RAG chatbots:** assistants grounded in your docs, with evaluation so you know the answers are right
-- **Agent guardrails & observability:** reasoning audits, risky-action blocking, cost budgets, alerts and replayable run logs
-- **Full-stack AI apps:** FastAPI backends + Next.js dashboards, Dockerized and deployed
+I take freelance work on AI agents. That means building them with LangGraph or CrewAI, connecting them to your tools and data, and adding the logging and guardrails you need before you let them run unsupervised. Backends are usually FastAPI, dashboards usually Next.js.
 
-## 🚀 Featured work
+If you have an agent that needs building or fixing, email me at sreerevanth7b@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/sree-revanth).
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**AgentWatch**](https://github.com/Shinraya-Tech-Labs/AgentWatch) | Open-source observability & guardrail platform for AI agents. 40+ risk patterns, live dashboard, Slack/PagerDuty alerts, run replay. Published on PyPI (`agentwatch-ai`). | FastAPI · PostgreSQL · Redis · Celery · Next.js · Docker |
-| [**TRADEX**](https://github.com/sreerevanth/TRADEX) | Real-time intraday trading dashboard with ORB-strategy buy/sell signals, live P&L and candlestick charts. | Python |
-| [**adacompute**](https://github.com/sreerevanth/adacompute) | Adaptive inference-time compute: picks reasoning length, branching and parallelism per input to cut LLM cost. | Python |
-| [**robust-reasoning-rl**](https://github.com/sreerevanth/robust-reasoning-rl) | Research on whether RL-trained reasoning models learn real correctness or game noisy rewards. | Python · TRL (GRPO) |
-
-## 🧰 Tech stack
-
-**AI/LLM:** LangGraph · LangChain · CrewAI · AutoGen · RAG · TRL / GRPO · OpenTelemetry
-**Backend:** Python · FastAPI · PostgreSQL · Redis · Celery
-**Frontend:** Next.js · Tailwind · Recharts · WebSockets
-**DevOps:** Docker · GitHub Actions · Vercel · Render · Railway · Fly.io
-
----
-
-💬 **Have an agent that needs building or fixing?** Email me. I usually reply within 24 hours.
+`Python` `FastAPI` `PostgreSQL` `Redis` `Next.js` `LangGraph` `CrewAI` `TRL` `Docker`
